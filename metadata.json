@@ -1,0 +1,6 @@
+{
+  "name": "YouTube Channel Analyzer",
+  "description": "Finds the best performing video of a specific YouTube channel over a given timeframe using the YouTube Data API.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
